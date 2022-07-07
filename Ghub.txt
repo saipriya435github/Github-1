@@ -2,4 +2,4 @@ New file Ghub.txt got created,text adde from git hub if u want to have same on l
 3rd line added from Develop br after switched to develop,if u use git push it will push only main br changes only,so we have to use full syntax for specific br except main or else you will not get changes2nd line added to the Ghub file and will push this branch changes to remote repo
 3rd line added from Develop br after switched to develop,if u use git push it will push only main br changes only,so we have to use full syntax for specific br except main or else you will not get changes
 4th line added
-
+New-branch got created
